@@ -36,7 +36,6 @@ After you're finished please remove all the comments and instructions!
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🛠 Live Demo ](#-live-demo-)
-  - [:card\_index: Entity Relationship Diagram ](#card_index-entity-relationship-diagram-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -100,10 +99,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ER DIAGRAM-->
-## :card_index: Entity Relationship Diagram <a name="er-diagram"></a>
-![er-diagram](https://github.com/microverseinc/curriculum-rails/raw/main/capstone/images/erd_diagram.png)
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -123,11 +118,11 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`git clone https://github.com/skyv26/hello-world-js_bundling.git hello-world`
+`git clone https://github.com/samlorlah/hello-rails-react.git`
 
 then
 
-`cd hello-world`
+`cd hello-rails-react`
 
 ### Install
 
@@ -201,14 +196,6 @@ Give a ⭐️ if you like this project!
 I would like to thank:
 - [Microverse](https://microverse.org)
 - Code reviewers
-- Inspiration
-   - [Vitor Guedes Madeira](https://github.com/VitorGuedesMadeira) 
-
-Under the the [Creative Commons liscense](https://creativecommons.org/licenses/by-nc/4.0/)
-
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/84629565/181086933-d5bcdb09-da51-40f6-b0f8-a1f191614257.png">
-
-Original design from [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
