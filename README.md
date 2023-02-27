@@ -31,7 +31,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Recipe App ](#-recipe-app-)
+- [📖 Rails React (Hello World App) ](#-rails-react-hello-world-app-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -51,14 +51,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Recipe App <a name="about-project"></a>
-![blog-gif](https://media3.giphy.com/media/svdsMNSzOShzO/giphy.gif)
+# 📖 Rails React (Hello World App) <a name="about-project"></a>
 
-**Plan Me** is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what.The Ruby on Rails application that allows the user to:
-
-- register and log in, so that the data is private to them.
-- introduce new transactions associated with a category.
-- see the money spent on each category.
+The Hello World app is a learning application. ln which rails is used as backend power with API and React is used as frontend in a single code base or single application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
